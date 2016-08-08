@@ -1,0 +1,40 @@
+_repo: Roman-Farm-ManagementThe-Treatises-of-Cato-and-Varro_12140
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Harrison, Fairfax
+    birthdate: 1869
+    deathdate: 1938
+    gutenberg_agent_id: '31708'
+    url: http://www.gutenberg.org/2009/agents/31708
+creator:
+  authors:
+  - agent_name: Cato, Marcus Porcius
+    alias: Cato, Censorius
+    birthdate: -234
+    deathdate: -149
+    gutenberg_agent_id: '37390'
+    url: http://www.gutenberg.org/2009/agents/37390
+  - agent_name: Varro, Marcus Terentius
+    gutenberg_agent_id: '6680'
+    url: http://www.gutenberg.org/2009/agents/6680
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Terentius_Varro
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm management -- Early works to 1800'
+- !lcsh 'Agriculture -- Early works to 1800'
+- !lcc 'S'
+- GITenberg
+tableOfContents: Note upon the Roman agronomists -- Note on the obligation of Virgil
+  to Varro -- Cato's De agricultura -- Varro's Rerum rusticarum libri tres.
+title: 'Roman Farm Management: The Treatises of Cato and Varro'
+url: http://www.gutenberg.org/ebooks/12140
